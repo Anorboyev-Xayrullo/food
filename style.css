@@ -1,0 +1,176 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.list{
+    display: flex;
+}
+.list_item{
+    list-style: none;
+    text-decoration: none;
+    margin-left: 40px;
+}
+
+.list_item a{
+    text-decoration: none;
+    margin-left: 40px;
+    font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+
+color: #363853;
+}
+.fa-solid{
+    margin-left: 50px;  
+}
+
+.up{
+background: #FF7A50;
+box-shadow: 0px 40px 40px rgba(255, 104, 56, 0.19);
+border-radius: 0px;
+padding: 10px 10px 10px 10px;
+text-align: center;
+
+}
+
+.home{
+    font-weight: 400;
+font-size: 18px;
+line-height: 21px;
+color: #FF6838;
+}
+
+
+
+
+
+
+.food{
+    font-weight: 500;
+font-size: 66px;
+line-height: 78px;
+text-transform: capitalize;
+color: #ff6838;
+}
+
+.super{
+    font-weight: 500;
+font-size: 66px;
+line-height: 78px;
+text-transform: capitalize;
+color: #363853;
+}
+
+.our{
+    margin-top: 200px;
+}
+
+.provide{
+    font-weight: 400;
+font-size: 20px;
+line-height: 30px;
+text-transform: capitalize;
+color: #363853;
+}
+
+.true{
+    background: #FF7A50;
+box-shadow: 0px 22px 40px rgba(255, 104, 56, 0.19);
+padding: 10px 30px 10px 30px;
+border-radius: 5px;
+font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+color: #FFFFFF;
+}
+
+.expect{
+    margin-left: 50px;
+    padding: 8px;
+    font-weight: 400;
+font-size: 20px;
+line-height: 24px;
+text-align: center;
+text-decoration-line: underline;
+color: #363853;
+}
+
+
+.increment{
+    display: flex;
+    padding-top: 50px;
+}
+
+.boy{
+    padding-top: 8px;
+}
+
+.phone{
+    padding-top: 15px;
+}
+
+.alex{
+
+    display: flex;
+}
+
+.bike{
+    width: 100%;
+}
+
+
+.plural{
+    padding-top: 70px;
+    font-weight: 500;
+font-size: 36px;
+line-height: 43px;
+text-transform: capitalize;
+color: #363853;
+text-align: center;
+}
+
+.singular{
+    font-weight: 500;
+    font-size: 36px;
+    line-height: 43px;
+    text-transform: capitalize;
+    color: #ff6838;
+}
+
+.burger{
+    display: flex;
+}
+
+.pizza{
+    padding-top: 10px;  
+    padding-left: 70px;
+}
+
+.sandwich{
+    padding-top: 15px;
+    padding-left: 50px;
+}
+
+.menu{
+    padding-left: 50px;
+}
+.ola{
+    display: flex;
+}
+.dollr{
+    margin-left: 50px;
+}
+.farm{
+    margin-left: 20px;
+    width: 106px;
+    height: 32px;
+    background: #FF7A50;
+    border-radius: 2px;
+    color: #FFFFFF;
+    font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+}
